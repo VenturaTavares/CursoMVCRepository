@@ -1,0 +1,12 @@
+C:\Desenvolvimento\Ventura\VP.CursoMVC.Infra.Data\bin\Debug\VP.CursoMVC.Infra.Data.dll.config
+C:\Desenvolvimento\Ventura\VP.CursoMVC.Infra.Data\bin\Debug\VP.CursoMVC.Infra.Data.dll
+C:\Desenvolvimento\Ventura\VP.CursoMVC.Infra.Data\bin\Debug\VP.CursoMVC.Infra.Data.pdb
+C:\Desenvolvimento\Ventura\VP.CursoMVC.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Desenvolvimento\Ventura\VP.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Desenvolvimento\Ventura\VP.CursoMVC.Infra.Data\bin\Debug\VP.CursoMvc.Domain.dll
+C:\Desenvolvimento\Ventura\VP.CursoMVC.Infra.Data\bin\Debug\VP.CursoMvc.Domain.pdb
+C:\Desenvolvimento\Ventura\VP.CursoMVC.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Desenvolvimento\Ventura\VP.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Desenvolvimento\Ventura\VP.CursoMVC.Infra.Data\obj\Debug\VP.CursoMVC.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\Ventura\VP.CursoMVC.Infra.Data\obj\Debug\VP.CursoMVC.Infra.Data.dll
+C:\Desenvolvimento\Ventura\VP.CursoMVC.Infra.Data\obj\Debug\VP.CursoMVC.Infra.Data.pdb

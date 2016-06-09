@@ -1,0 +1,4 @@
+C:\Desenvolvimento\Ventura\src\VP.CursoMvc.Domain\bin\Debug\VP.CursoMvc.Domain.dll
+C:\Desenvolvimento\Ventura\src\VP.CursoMvc.Domain\bin\Debug\VP.CursoMvc.Domain.pdb
+C:\Desenvolvimento\Ventura\src\VP.CursoMvc.Domain\obj\Debug\VP.CursoMvc.Domain.dll
+C:\Desenvolvimento\Ventura\src\VP.CursoMvc.Domain\obj\Debug\VP.CursoMvc.Domain.pdb
